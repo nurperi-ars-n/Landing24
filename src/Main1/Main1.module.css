@@ -1,0 +1,41 @@
+.Main1{
+    height: 342px;
+    display: flex;
+}
+.oneBl{
+    background: linear-gradient(229.32deg, #6888FF 12.77%, #5E80FF 73.11%);
+    width: 720px;
+    text-align: right;
+    padding-top: 50px;
+    padding-right: 90px;
+}
+.oneBl > h1{
+    font-weight: normal;
+    font-size: 48px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+.oneBl > p {
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+.twoBl{
+    padding-top: 50px;
+    padding-left: 90px;
+    background: linear-gradient(101.48deg, #E9EFFF 41.56%, #E0E9FF 81.53%);
+    width: 720px;
+}
+.twoBl >h1{
+    font-size: 48px;
+    letter-spacing: 0.03em;   
+    color: #5E80FF;
+}
+.twoBl >p {
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: 0.03em;
+    color: #5E80FF;
+    width: 260px;
+    height: 45px;
+}

@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+.block5{
+    width: 1440px;
+    background: #FFFFFF;
+    
+}
+.block5 h5{
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #3D4F9F;
+}
+.hFive{
+  padding-top: 116px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.first {
+    padding-top: 36px;
+} 
+.block5 div {  
+    display: flex;
+    justify-content: center;
+}
+.block5  img{
+    width: 14px;
+    height: 7px;
+    padding-top: 35px;
+    padding-right: 22px;
+}
+.block5 p{
+    width: 463px;
+    height: 45px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    color: #8E96B7;
+
+}
+hr {
+    width: 590px;
+    margin-top: 0px;
+}
+.different{
+    height: 156px;
+}
+.question{
+    padding-right: 290px;
+}
+.question h5 {
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #495274;
+} 
+.pbut {
+    padding: 0px;
+    margin: 0px;
+}
+.pBut p {
+    padding-top: -20px;
+    width: 376px;
+    height: 62px;
+    font-size: 14px;
+    line-height: 27px;
+    letter-spacing: 0.03em;
+    color: #8D96BD;
+    margin-left: 160px;
+}
+.pBut button {
+    width: 195px;
+    height: 43px;
+    background: #E8ECF4;
+    border-radius: 2px;
+    border: none;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;     
+    color: #7382A3;
+   
+}
