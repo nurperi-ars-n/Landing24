@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Landing24/static/css/main.377d5ad4.chunk.css",
+    "main.js": "/Landing24/static/js/main.be9421bf.chunk.js",
+    "main.js.map": "/Landing24/static/js/main.be9421bf.chunk.js.map",
+    "runtime-main.js": "/Landing24/static/js/runtime-main.ba7e16ef.js",
+    "runtime-main.js.map": "/Landing24/static/js/runtime-main.ba7e16ef.js.map",
+    "static/js/2.01ac8cc8.chunk.js": "/Landing24/static/js/2.01ac8cc8.chunk.js",
+    "static/js/2.01ac8cc8.chunk.js.map": "/Landing24/static/js/2.01ac8cc8.chunk.js.map",
+    "index.html": "/Landing24/index.html",
+    "static/css/main.377d5ad4.chunk.css.map": "/Landing24/static/css/main.377d5ad4.chunk.css.map",
+    "static/js/2.01ac8cc8.chunk.js.LICENSE.txt": "/Landing24/static/js/2.01ac8cc8.chunk.js.LICENSE.txt",
+    "static/media/Block3.module.css": "/Landing24/static/media/bck.967cefcf.png",
+    "static/media/bckg.38aa7eca.png": "/Landing24/static/media/bckg.38aa7eca.png",
+    "static/media/clouds.c821ae62.png": "/Landing24/static/media/clouds.c821ae62.png",
+    "static/media/il.cbfcdc10.png": "/Landing24/static/media/il.cbfcdc10.png",
+    "static/media/ill.9b89e7bc.png": "/Landing24/static/media/ill.9b89e7bc.png",
+    "static/media/playbutton.88fd0a32.png": "/Landing24/static/media/playbutton.88fd0a32.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba7e16ef.js",
+    "static/js/2.01ac8cc8.chunk.js",
+    "static/css/main.377d5ad4.chunk.css",
+    "static/js/main.be9421bf.chunk.js"
+  ]
+}
