@@ -1,2 +1,2 @@
-Landing
+figma landing
 Site layout with React
